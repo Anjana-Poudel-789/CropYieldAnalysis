@@ -16,7 +16,7 @@ This project analyzes agricultural productivity trends using R and visualizes ke
 ## 👤 Author
 
 **Anjana Poudel**  
-Agricultural Researcher | Data Scientist  
+Agricultural Researcher  
 - ORCID: [0009-0006-2829-5957](https://orcid.org/0009-0006-2829-5957)
 - Specialization: Plant physiology and crop improvement
 - Proficient in R and Python for agricultural data analysis
